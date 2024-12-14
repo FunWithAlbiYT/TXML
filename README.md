@@ -1,7 +1,7 @@
 # TXML
 little mod loader for a game my friend made
 
-Game version: 0.14
+Game version: 0.14<br>
 Loader version: 0.1
 
 Original: [https://github.com/Just-Pointless/Texcity](https://github.com/Just-Pointless/Texcity)
